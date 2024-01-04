@@ -13,7 +13,7 @@ Olá! Sou um desenvolvedor júnior brasileiro, tenho 18 anos e curso Engenharia 
 
 ![Bruno GitHub stats](https://github-readme-stats.vercel.app/api?username=09Ghost90&aghazra&show_icons=true&theme=dark)
 
-### Tecnologias que uso em meu dia
+### <h2>Linguagens:</h2>
 <hr>
 <div style="display: inline_block"><br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
