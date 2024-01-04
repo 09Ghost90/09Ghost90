@@ -18,8 +18,8 @@
 Apaixonado por tecnologia, tentando desenvolver essas habilidades listadas, afim de poder prosperar um dia com elas.
 
 <h2>Contatos:</h2><br>
-
-<img align="center" alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-<small> brunosousapereira.az@gmail.com</small>
-
-<img align="center" alt="whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"<small> +55 34 99887-8170</small>
+<div>
+    <img align="center" alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+    <small> brunosousapereira.az@gmail.com</small>
+    <img align="center" alt="whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"<small> +55 34 99887-8170</small>
+<div><br>
