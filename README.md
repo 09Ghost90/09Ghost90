@@ -7,8 +7,9 @@ Olá! Sou um desenvolvedor júnior brasileiro, tenho 18 anos e curso Engenharia 
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/bruno.p.sousa_)
 [![GitHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/09Ghost90)
-[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/scorpionwind/)
+[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/scorpionwind/)<br>
 
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=09Ghost90&hide_progress=true)
 
 ![Bruno GitHub stats](https://github-readme-stats.vercel.app/api?username=09Ghost90&aghazra&show_icons=true&theme=dark)
 
