@@ -13,4 +13,13 @@
     <img align="center" alt="html5" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
     <img align="center" alt="python" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> 
     <img align="center" alt="c++" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-</div>
+</div><br>
+
+Apaixonado por tecnologia, tentando desenvolver essas habilidades listadas, afim de poder prosperar um dia com elas.
+
+<h2>Contatos:</h2><br>
+<img align="center" alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+<small> brunosousapereira.az@gmail.com</small>
+
+<img align="center" alt="whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
+"> +55 34 99887-8170
