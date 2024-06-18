@@ -2,7 +2,7 @@
 <hr>
 
 <ol>
-Olá! Sou um desenvolvedor júnior brasileiro, tenho 18 anos e curso Engenharia de Computação na Universidade de Uberlândia.
+Olá! Sou um desenvolvedor júnior brasileiro, tenho 19 anos e curso Engenharia de Computação na Universidade de Uberlândia.
 </ol><br>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/bruno.p.sousa_)
