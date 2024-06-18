@@ -5,7 +5,7 @@
 Olá! Sou um desenvolvedor júnior brasileiro, tenho 19 anos e curso Engenharia de Computação na Universidade de Uberlândia.
 </ol><br>
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/bruno.p.sousa_){:target="_blank"}
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/bruno.p.sousa_)
 [![GitHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/09Ghost90)
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
 ](https://steamcommunity.com/id/scorpionwind/)<br>
