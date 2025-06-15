@@ -2,7 +2,7 @@
 <hr>
 
 <ol>
-Olá! Sou um desenvolvedor júnior brasileiro, tenho 19 anos e curso Engenharia de Computação na Universidade de Uberlândia.
+Olá! Sou um desenvolvedor júnior brasileiro, tenho 20 anos e curso Engenharia de Computação na Universidade de Uberlândia.
 </ol><br>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-sousa-pereira-b5b5a8268/)
